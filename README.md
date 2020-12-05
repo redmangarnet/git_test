@@ -1,0 +1,1 @@
+This is garnet redmans first git project.
